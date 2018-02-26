@@ -1,0 +1,3 @@
+[submodule "andriod_beakr"]
+	path = andriod_beakr
+	url = https://github.com/team-beakr/andriod_beakr.git
